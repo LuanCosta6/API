@@ -1,5 +1,5 @@
 # API
-API 2° Semestre Logística G1
+API 2° Semestre Logística - G1
 # Aprendizado por Projeto Integrado (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
