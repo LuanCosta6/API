@@ -87,8 +87,7 @@ Requisitos não funcionais
 # Backlog do produto
      
 ![product backlog](https://github.com/LuanCosta6/API/issues/1#issue-1911931476)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+
 
 
 # Burndown
