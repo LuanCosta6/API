@@ -48,10 +48,13 @@ exportação
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ * GitHub
+ * Jira Software
+ * PowerBI
+ * Excel
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ * Base de Dados (fornecida pelo cliente)
 
 # Sprints
 
