@@ -88,8 +88,7 @@ Requisitos não funcionais
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
+![sprint backlog](https://github.com/LuanCosta6/API/issues/1#issue-1911931476)
 </div>
 
 
@@ -97,45 +96,22 @@ Requisitos não funcionais
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 0. Concepção
+- [x] Criação do GitHub;
+- [x] Esclarecimento de dúvidas com cliente;
+- [x] Estruturação do Jira;
+- [x] Lançamento de atividades;
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Levantamento de Dados;
+- [ ] Documentação;
+- [ ] Visualização no PowerBi;
+- [ ] Estudos da SH4 e SH6;
+- [ ] Desenho do fluxo de carga para importação e exportação.
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 2 . Implementação
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3. Operacionalização
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
