@@ -89,7 +89,6 @@ Requisitos não funcionais
 <div align="center">
     
 ![sprint backlog](https://github.com/LuanCosta6/API/issues/1#issue-1911931476)
-</div>
 
 
 # Burndown
