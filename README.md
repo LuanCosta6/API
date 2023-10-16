@@ -84,16 +84,3 @@ Requisitos não funcionais
 - Metodologias ágil
 - Power BI / Jira / Canvas
   
-# Backlog do produto
-     
-![product backlog](https://github.com/LuanCosta6/API/issues/1#issue-1911931476)
-
-
-
-# Burndown
-![sprint backlog](https://github.com/LuanCosta6/API/issues/2#issue-1912430171)
-
-
-
-
-
