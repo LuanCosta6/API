@@ -61,11 +61,11 @@ Sprint | Previsão | Status| Histórico|
 |01 | 16/10/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02 | 06/11/2023 | Em andamento| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03 | 27/11/2023 | A fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções | 12/12/2023 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções | 12/12/2023 | A fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Backlog das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/A2L2G/boards/2/backlog)
+#### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/A2L2G/boards/2/backlog)
 
 # Requisitos
 
