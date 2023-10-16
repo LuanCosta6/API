@@ -29,12 +29,10 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Jonathan Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo trazer uma visão ampla do fluxo de carga no Estado de São Paulo:
+* Apresentar DashBoard;
+* Fluxo de carga (Importação/Exportação);
+* Qual SH4 mais predominante;
 
 Criar base de dados realcional e Dashboard que permita:
 * Identificar os modais utilizados nos trâmites internacionais
