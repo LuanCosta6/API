@@ -25,7 +25,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Team Member   | Nicolli Victoria              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)        |
 |  Team Member  | Gabriel Sene                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sene-moreira-80b339232/)        |
 |  Team Member  | Vinicius Tomé                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](-------------------)   |
-|  Team Member  | Victor Preto       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](---------------------)          |
+|  Team Member  | Victor Lopes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](---------------------)          |
 |  Team Member  | Jonathan Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)          |
 
 # Objetivo do Projeto
