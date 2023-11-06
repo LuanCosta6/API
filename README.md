@@ -72,6 +72,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/A2L2G/boards/2/backlog)
 
+# Burndown
+Burndown Sprint 2
+![Burndown 2](https://github.com/LuanCosta6/API/assets/128298764/4af29d3f-5035-47d9-b8ec-669999bf1dbf)
+
 # Requisitos
 
 Requisitos funcionais 
