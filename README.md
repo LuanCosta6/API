@@ -28,6 +28,11 @@ Descrição da demanda solicitada pelo cliente
 |  Team Member  | Victor Lopes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](---------------------)          |
 |  Team Member  | Jonathan Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)          |
 
+# Protótipo do Projeto - Power Bi
+Desenvolvimento do grupo
+![Tela BI 1](https://github.com/LuanCosta6/API/assets/128298764/0fb51a5c-973f-4f32-a84c-46a5aebb6ffe)
+![Tela BI 2](https://github.com/LuanCosta6/API/assets/128298764/6bc37ab5-54c5-4675-b4b5-8fe878e38670)
+
 # Objetivo do Projeto
 Este projeto tem como objetivo trazer uma visão ampla do fluxo de carga no Estado de São Paulo:
 * Apresentar DashBoard;
@@ -58,9 +63,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 25/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 16/10/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02 | 06/11/2023 | Em andamento| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03 | 27/11/2023 | A fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 16/10/2023 | Concluído| [Ver Relatório](https://github.com/LuanCosta6/API/files/13265722/Relatorio.SPRINT.1.docx) | 
+|02 | 06/11/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03 | 27/11/2023 | Em andamento| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Feira de Soluções | 12/12/2023 | A fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
