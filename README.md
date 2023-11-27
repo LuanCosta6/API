@@ -28,10 +28,9 @@ Descrição da demanda solicitada pelo cliente
 |  Team Member  | Victor Lopes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](---------------------)          |
 |  Team Member  | Jonathan Martins       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](----------------)          |
 
-# Protótipo do Projeto - Power Bi
+# Projeto - Power Bi
 Desenvolvimento do grupo
-![Tela BI 1](https://github.com/LuanCosta6/API/assets/128298764/0fb51a5c-973f-4f32-a84c-46a5aebb6ffe)
-![Tela BI 2](https://github.com/LuanCosta6/API/assets/128298764/6bc37ab5-54c5-4675-b4b5-8fe878e38670)
+![Projeto BI](https://github.com/LuanCosta6/API/issues/7#issue-2011386179)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo trazer uma visão ampla do fluxo de carga no Estado de São Paulo:
@@ -73,7 +72,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma das Sprints[(clique aqui)](https://luan-silva-costa.atlassian.net/jira/software/projects/A2L2G/boards/2/backlog)
 
 # Burndown
-Burndown Sprint 2
+Burndown Sprint 3
 ![Burndown 3](https://github.com/LuanCosta6/API/assets/128298764/aa1863cc-874a-433a-9661-7775f234e882)
 
 # Requisitos
