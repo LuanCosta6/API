@@ -74,7 +74,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Burndown
 Burndown Sprint 2
-![Burndown 2](https://github.com/LuanCosta6/API/assets/128298764/4af29d3f-5035-47d9-b8ec-669999bf1dbf)
+![Burndown 3](https://github.com/LuanCosta6/API/assets/128298764/aa1863cc-874a-433a-9661-7775f234e882)
 
 # Requisitos
 
