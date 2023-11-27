@@ -30,7 +30,7 @@ Descrição da demanda solicitada pelo cliente
 
 # Projeto - Power Bi
 Desenvolvimento do grupo
-![Projeto BI](https://github.com/LuanCosta6/API/issues/7#issue-2011386179)
+![Projeto BI](https://github.com/LuanCosta6/API/assets/128298764/a3e12319-6bf0-4f82-8967-da6384237787)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo trazer uma visão ampla do fluxo de carga no Estado de São Paulo:
