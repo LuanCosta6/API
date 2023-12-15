@@ -74,16 +74,3 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Burndown
 Burndown Sprint 3
 ![Burndown 3](https://github.com/LuanCosta6/API/assets/128298764/aa1863cc-874a-433a-9661-7775f234e882)
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canva's
