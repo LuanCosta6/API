@@ -64,8 +64,8 @@ Sprint | Previsão | Status| Histórico|
 |00 | 25/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 16/10/2023 | Concluído| [Ver Relatório](https://github.com/LuanCosta6/API/files/13265722/Relatorio.SPRINT.1.docx) | 
 |02 | 06/11/2023 | Concluído| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
-|03 | 27/11/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções | 12/12/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03 | 27/11/2023 | Concluído| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
+|Feira de Soluções | 12/12/2023 | Concluído| [Ver Relatório](https://github.com/LuanCosta6/API/files/13273408/Relatorio.2.SPRINT.docx) | 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
